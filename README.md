@@ -16,7 +16,7 @@ Jogo interativo feito com HTML, CSS e JavaScript. O objetivo é adivinhar um nú
 ## 🚀 Instalação  
 ```bash
 git clone https://github.com/JeanJerri/jogo-numero-secreto.git
-cd jogo-numero-secreto-git
+cd jogo-numero-secreto
 ```
 
 ## ⚙️ Configuração
